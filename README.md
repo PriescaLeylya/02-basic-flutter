@@ -50,3 +50,16 @@ G.property transform
 ![Screenshot (1686)](https://user-images.githubusercontent.com/89897038/156146197-7952094f-74c9-4a5a-a1c7-21b611a91b82.png)
 H.property decoration
 ![Screenshot (1685)](https://user-images.githubusercontent.com/89897038/156146192-66e2fc5a-18ce-4c81-b387-016026baf111.png)
+
+10.Column Widget
+![Screenshot (1687)](https://user-images.githubusercontent.com/89897038/156147099-c8e45738-db52-4aaf-abe9-2c7c023c4445.png)
+11.Row Widget 
+![Screenshot (1688)](https://user-images.githubusercontent.com/89897038/156147107-de19f08b-cbd0-4d05-ad2a-1c04227177a5.png)
+12.Stack 
+![Screenshot (1689)](https://user-images.githubusercontent.com/89897038/156147110-ce40bb67-f8da-4050-b18e-367fd3a75c4e.png)
+13.ListView 
+![Screenshot (1690)](https://user-images.githubusercontent.com/89897038/156147113-fa943bfd-1d83-42af-9315-b83ebbec6056.png)
+14.GridView 
+![Screenshot (1691)](https://user-images.githubusercontent.com/89897038/156147120-96839b27-c298-46e1-bf96-8f1c869cabb6.png)
+15.TUGAS
+![Screenshot (1667)](https://user-images.githubusercontent.com/89897038/156147260-c2e0b1e6-d04a-49b6-92e5-f3f6762f7640.png)
