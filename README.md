@@ -33,7 +33,7 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot (1676)](https://user-images.githubusercontent.com/89897038/156142386-b5362a25-43a5-4392-b22f-aadfda0964dc.png)
 
 
-Build in Layout Widget 
+9.Build in Layout Widget 
 A.property child
 ![Screenshot (1677)](https://user-images.githubusercontent.com/89897038/156142682-9ca6e824-85aa-45fe-b7f5-60d96433b4d2.png)
 B.property alignment
@@ -46,4 +46,7 @@ E. property margin
 ![Screenshot (1681)](https://user-images.githubusercontent.com/89897038/156143606-d69b2278-c26c-41a3-94fa-9698e5e2eab4.png)
 F.property padding 
 ![Screenshot (1682)](https://user-images.githubusercontent.com/89897038/156143608-633fb449-1446-4ddf-8e87-e3aaf70d8e56.png)
-
+G.property transform 
+![Screenshot (1686)](https://user-images.githubusercontent.com/89897038/156146197-7952094f-74c9-4a5a-a1c7-21b611a91b82.png)
+H.property decoration
+![Screenshot (1685)](https://user-images.githubusercontent.com/89897038/156146192-66e2fc5a-18ce-4c81-b387-016026baf111.png)
