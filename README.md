@@ -31,3 +31,14 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot (1675)](https://user-images.githubusercontent.com/89897038/156142377-fad883fe-1526-4d96-81aa-3f21e4e587be.png)
 8.Date and Time Pickers 
 ![Screenshot (1676)](https://user-images.githubusercontent.com/89897038/156142386-b5362a25-43a5-4392-b22f-aadfda0964dc.png)
+
+
+Build in Layout Widget 
+A.property child
+![Screenshot (1677)](https://user-images.githubusercontent.com/89897038/156142682-9ca6e824-85aa-45fe-b7f5-60d96433b4d2.png)
+B.property alignment
+![Screenshot (1678)](https://user-images.githubusercontent.com/89897038/156142731-f22fe7a6-b596-4064-9714-cbb1a9d9afda.png)
+C. property color
+![Screenshot (1679)](https://user-images.githubusercontent.com/89897038/156142733-7d20babf-f8f1-4a03-a126-617b69089d4e.png)
+D.Property height dan width
+![Screenshot (1680)](https://user-images.githubusercontent.com/89897038/156142734-0dee7101-874e-48ba-81fd-ad9824435b4d.png)
