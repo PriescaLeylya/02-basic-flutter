@@ -25,3 +25,9 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot (1672)](https://user-images.githubusercontent.com/89897038/156141708-aa4ff9f1-e24a-49ef-be7e-b2747373e5ed.png)
 5.Scaffold 
 ![Screenshot (1673)](https://user-images.githubusercontent.com/89897038/156141774-e1d07e4c-6aa5-4255-9a9a-b886bc5dd264.png)
+6.Dialog
+![Screenshot (1674)](https://user-images.githubusercontent.com/89897038/156142294-8c23c6c7-dc45-4b22-8c7d-d55070e1855f.png)
+7.Input dan Selection Widget
+![Screenshot (1675)](https://user-images.githubusercontent.com/89897038/156142377-fad883fe-1526-4d96-81aa-3f21e4e587be.png)
+8.Date and Time Pickers 
+![Screenshot (1676)](https://user-images.githubusercontent.com/89897038/156142386-b5362a25-43a5-4392-b22f-aadfda0964dc.png)
