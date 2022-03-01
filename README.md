@@ -42,3 +42,8 @@ C. property color
 ![Screenshot (1679)](https://user-images.githubusercontent.com/89897038/156142733-7d20babf-f8f1-4a03-a126-617b69089d4e.png)
 D.Property height dan width
 ![Screenshot (1680)](https://user-images.githubusercontent.com/89897038/156142734-0dee7101-874e-48ba-81fd-ad9824435b4d.png)
+E. property margin 
+![Screenshot (1681)](https://user-images.githubusercontent.com/89897038/156143606-d69b2278-c26c-41a3-94fa-9698e5e2eab4.png)
+F.property padding 
+![Screenshot (1682)](https://user-images.githubusercontent.com/89897038/156143608-633fb449-1446-4ddf-8e87-e3aaf70d8e56.png)
+
