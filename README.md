@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 1. text widget
 ![Screenshot (1669)](https://user-images.githubusercontent.com/89897038/156139649-a8f28668-9787-4c76-b5ca-cafc19d3066c.png)
+2. image widget
+![Screenshot (1670)](https://user-images.githubusercontent.com/89897038/156140940-94cf7013-9f02-42b9-8ba1-050b87f44469.png)
